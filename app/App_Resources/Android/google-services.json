@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "606283205875",
+    "firebase_url": "https://nronlineclass-be7dc.firebaseio.com",
+    "project_id": "nronlineclass-be7dc",
+    "storage_bucket": "nronlineclass-be7dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606283205875:android:39b54cdb8549b4e6e1bb86",
+        "android_client_info": {
+          "package_name": "in.nronlineclass.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606283205875-q3v95pebl8a55vgegtqt0os5tjjj40t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADzGbjX79NwtckTd4g6hTuXHPGvroFSwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606283205875-q3v95pebl8a55vgegtqt0os5tjjj40t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
